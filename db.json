@@ -1,0 +1,85 @@
+{
+    "student" :[
+        {
+            "roll" : 20,
+            "name" : "Tohid",
+            "class" : 7,
+            "result" : [
+                {
+                    "bn" : 33,
+                    "en" : 38,
+                    "math" : 30,
+                    "s" : 90,
+                    "ss" : 80,
+                    "rel" : 50
+                }
+            ]
+        },
+        {
+            "roll" : 5,
+            "name" : "Safin",
+            "class" : 10,
+            "result" : [
+                {
+                    "bn" : 56,
+                    "en" : 89,
+                    "math" : 76,
+                    "s" : 25,
+                    "ss" : 12,
+                    "rel" : 36
+                }
+            ]
+        },
+        {
+            "roll" : 36,
+            "name" : "Tohid",
+            "class" : 8,
+            "result" : [
+                {
+                    "bn" : 36,
+                    "en" : 75,
+                    "math" : 96,
+                    "s" : 45,
+                    "ss" : 76,
+                    "rel" : 86
+                }
+            ]
+        }
+    ],
+    "Teachers" : [
+        {
+            "name" : "mohua pal",
+            "depermant" : "Makanical",
+            "phone" :[
+                {
+                    "phone-1" : "01994249463",
+                    "phone-2" : "01845652366"
+                }
+            ]
+        },
+        {
+            "name" : "Khonchon Da",
+            "depermant" : "Civil",
+            "phone" :[
+                {
+                    "phone-1" : "01365659859",
+                    "phone-2" : "01420522355"
+                }
+            ]
+        },
+        {
+            "name" : "Halim Mia",
+            "depermant" : "Electonic",
+            "phone" :[
+                {
+                    "phone-1" : "01592356556",
+                    "phone-2" : "01369556589"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
